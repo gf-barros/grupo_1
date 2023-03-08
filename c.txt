@@ -1,1 +1,2 @@
-Redes neurais totalmente conectadas!
+Redes recorrentes!
+
