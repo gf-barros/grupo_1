@@ -1,1 +1,1 @@
-Redes convolucionais!
+Redes recorrentes!
